@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+.big-box {
+  width: 669px;
+  height: 537px;
+  opacity: 1;
+  top: 222px;
+  left: 421px;
+  border-radius: 50px;
+  background-color: white;
+  margin: 170px auto;
+}
+
+.big-box h1 {
+  font-family: Inter;
+  font-weight: 600;
+  font-style: Semi Bold;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: black;
+  text-align: center;
+  padding-top: 67px;
+  margin-bottom: 29px;
+}
+
+.border {
+  width: 108.0000018155631px;
+  height: 108.0000018155631px;
+  opacity: 1;
+  top: 366px;
+  left: 695px;
+  border-radius: 60px;
+  border-width: 7px;
+  border: 7px solid #478FEE;
+  margin: 0 auto;
+}
+
+.big-box h2 {
+  padding-top: 39px;
+  font-family: Inter;
+  font-weight: 600;
+  font-style: Semi Bold;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: black;
+  text-align: center;
+}
+
+
+.big-box h3 {
+  padding-top: 17px;
+  font-family: Inria Serif;
+  font-weight: 300;
+  font-style: Light;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: black;
+  text-align: center;
+}
+
+.big-box h4 {
+  padding-top: 17px;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: black;
+  text-align: center;
+}
+
+
+.btn {
+  text-align: center;
+  width: 190px;
+  height: 62px;
+  opacity: 1;
+  top: 665px;
+  left: 654px;
+  border-radius: 20px;
+  border: 1px solid black;
+  color: black;
+  transition: 1s;
+  font-family: Inria Serif;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 22px;
+  margin-left: 240px;
+
+}
+
+.btn:hover {
+  background-color: #533FF0;
+  border: none;
+  color: white;
+}
+
+.big-box img{
+  border-radius: 50%;
+  width: 95px;
+
+}
